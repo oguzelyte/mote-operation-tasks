@@ -55,7 +55,7 @@ start Timer0 in periodic mode, you may create another timer and start in singles
 Take a screenshot as you will need it when writing your report
 
 
-# Part 2
+# Part 2 - Final Coursework
 
 
 **PAR at speed in the absence of errors.**
