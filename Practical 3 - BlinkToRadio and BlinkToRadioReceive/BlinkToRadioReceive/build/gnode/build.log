@@ -1,0 +1,24 @@
+Build:    BlinkToRadioAppC for msp430x2418 on g301
+Revision: exported
+Date:     Wed Mar 28 16:21:00 CEST 2018
+Compiler: /usr/bin/msp430-gcc, msp430-gcc (GCC) 4.5.3
+TinyOS:   /home/tinyos/tinyos-2.x
+Flags:
+-Os
+-fnesc-separator=__
+-Wall
+-Wshadow
+-Wnesc-all
+-fnesc-separator=__
+-target=gnode
+-fnesc-cfile=build/gnode/app.c
+-board=
+-DIDENT_APPNAME="BlinkToRadioApp"
+-DIDENT_USERNAME="tinyos"
+-DIDENT_HOSTNAME="sownet-tinyos-s"
+-DIDENT_USERHASH=0x76306b33L
+-DIDENT_TIMESTAMP=0x5abba4caL
+-DIDENT_UIDHASH=0x0a5fe295L
+-mmcu=msp430x2418
+BlinkToRadioAppC.nc
+-lm
